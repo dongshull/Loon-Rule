@@ -12,7 +12,7 @@
 
 
 [rule]
-DOMAIN,loon-ooo.vercel.app,PROXY
+DOMAIN,⚙.com,PROXY
 DOMAIN,raw.githubusercontent.com,PROXY
 
 [MITM]
