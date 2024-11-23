@@ -4,9 +4,22 @@
 #!author=DongShu
 #!homepage=https://github.com/你的GitHub
 #!icon=https://laji.o--o.xyz/i/2024/11/23/162918.jpg
-#!category=工具
+#!input = appName
+#!input = author
+#!select = appType,tool,social,health,sport
+#!select = price,0.99,1.99,4.99
+#!system = iOS,iPadOS,tvOS,macOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 工具
 
 # 该脚本用于自动执行比亚迪汽车应用的每日签到
 # 保持开启，如检测到cookie变更会自动更新，解决cookie过期的问题
 # 任务奖励：积分/优惠券等
 
+[MITM]
+hostname=xn--ck8h.com
+
+[Script]
+
+http-request https?:\/\/xn--ck8h\.com script-path=https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/backend/gallery.js, requires-body=true, timeout=120, tag=Loon-Gallery
