@@ -12,6 +12,7 @@
 
 
 [rule]
+DOMAIN,loon-config.vercel.app,PROXY
 DOMAIN,raw.githubusercontent.com,PROXY
 
 [MITM]
