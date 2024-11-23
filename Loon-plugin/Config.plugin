@@ -20,5 +20,4 @@ DOMAIN,github.com,PROXY
 hostname=xn--x7h.com
 
 [Script]
-
 http-request https?:\/\/xn--x7h\.com redirect-url=https://ncdh.synolog.online:99/My-Loon.conf, timeout=120, tag=Loon-Config
