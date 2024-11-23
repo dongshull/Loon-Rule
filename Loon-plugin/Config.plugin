@@ -8,6 +8,7 @@
 #!input = author
 #!select = appType,tool,social,health,sport
 #!select = price,0.99,1.99,4.99
+#!PROXY = 
 #!system = iOS,iPadOS,tvOS,macOS
 #!system_version = 15
 #!loon_version = 3.2.1(372)
