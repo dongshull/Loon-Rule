@@ -20,4 +20,4 @@ hostname=xn--x7h.com
 
 [Script]
 
-http-request https?:\/\/xn--x7h\.com script-path=https://raw.githubusercontent.com/dongshull/Loon-Config/main/backend/挪车源代码.js, requires-body=true, timeout=120, tag=Loon-Config
+http-request https?:\/\/xn--x7h\.com script-path=https://github.com/dongshull/Loon-Rule/raw/refs/heads/main/My-Loon.conf, requires-body=true, timeout=120, tag=Loon-Config
