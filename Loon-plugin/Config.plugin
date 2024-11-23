@@ -1,6 +1,6 @@
 #!name=Loon-App配置文件
 #!desc=一键获取Loon配置文件
-#!openUrl=https://⚙.com
+#!openUrl=https://ncdh.synolog.online:99/My-Loon.conf
 #!author=DongShu
 #!homepage=https://github.com/你的GitHub
 #!icon=https://laji.o--o.xyz/i/2024/11/23/162918.jpg
@@ -11,13 +11,3 @@
 #!tag = 工具
 
 
-[rule]
-DOMAIN,⚙.com,PROXY
-DOMAIN,raw.githubusercontent.com,PROXY
-DOMAIN,github.com,PROXY
-
-[MITM]
-hostname=xn--x7h.com
-
-[Script]
-http-request https?:\/\/xn--x7h\.com redirect-url=https://ncdh.synolog.online:99/My-Loon.conf, timeout=120, tag=Loon-Config
