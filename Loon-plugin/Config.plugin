@@ -4,10 +4,6 @@
 #!author=DongShu
 #!homepage=https://github.com/你的GitHub
 #!icon=https://laji.o--o.xyz/i/2024/11/23/162918.jpg
-#!input = appName
-#!input = author
-#!select = appType,tool,social,health,sport
-#!select = price,0.99,1.99,4.99
 #!PROXY = 
 #!system = iOS,iPadOS,tvOS,macOS
 #!system_version = 15
