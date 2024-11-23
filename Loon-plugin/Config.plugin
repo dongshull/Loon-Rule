@@ -13,9 +13,10 @@
 #!loon_version = 3.2.1(372)
 #!tag = 工具
 
-# 该脚本用于自动执行比亚迪汽车应用的每日签到
-# 保持开启，如检测到cookie变更会自动更新，解决cookie过期的问题
-# 任务奖励：积分/优惠券等
+
+[rule]
+DOMAIN,loon-config.vercel.app,PROXY
+DOMAIN,raw.githubusercontent.com,PROXY
 
 [MITM]
 hostname=xn--x7h.com
