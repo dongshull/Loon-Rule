@@ -14,6 +14,7 @@
 [rule]
 DOMAIN,⚙.com,PROXY
 DOMAIN,raw.githubusercontent.com,PROXY
+DOMAIN,github.com,PROXY
 
 [MITM]
 hostname=xn--x7h.com
