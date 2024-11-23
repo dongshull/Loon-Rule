@@ -1,9 +1,9 @@
 # Loon-Rule
 # 🔴 ！！！该配置文件修改自 [可莉大佬](https://t.me/iKeLee "可莉大佬的TG") 的Loon 最小配置，感谢大佬的分享
 > ❗ ❗ ❗
-> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://gitee.com/DongShul/Loon/issues "DongShu-Issues")
+> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/dongshull/Loon-Rule/issues "DongShu-Issues")
 
-## 1️⃣[Loon 配置文件](https://gitee.com/DongShul/Loon/raw/master/My-Loon.conf "My-Loon.conf")：
+## 1️⃣[Loon 配置文件](https://github.com/dongshull/Loon-Rule/blob/main/My-Loon.conf "My-Loon.conf")：
 
 
 东叔自用 Loon 配置文件，自带去广告插件，如需更多插件则需要前往 可莉大佬的[插件大全](https://github.com/luestr/ProxyResource/blob/main/README.md "插件大全")，里面有各种插件，可自行安装。
