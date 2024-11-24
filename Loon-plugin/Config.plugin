@@ -2,7 +2,7 @@
 #!desc=一键获取Loon配置文件
 #!openUrl=https://raw.githubusercontent.com/dongshull/Loon-Rule/main/My-Loon.conf
 #!author=DongShu
-#!homepage=https://www.nsloon.com/openloon/import?sub=https://ncdh.synolog.online:99/My-Loon.conf
+#!homepage=https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/dongshull/Loon-Rule/main/My-Loon.conf
 #!icon=https://laji.o--o.xyz/i/2024/11/23/162918.jpg
 #!PROXY = 
 #!system = iOS,iPadOS,tvOS,macOS
